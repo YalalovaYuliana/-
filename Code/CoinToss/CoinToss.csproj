@@ -88,9 +88,6 @@
     <None Include="Resources\coin-flip-22.gif" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\coin-flip-black-white.gif" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\решка.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -98,6 +95,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\бросить.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonToss.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eagleCoin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reshkaCoin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin-flip-black-white.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

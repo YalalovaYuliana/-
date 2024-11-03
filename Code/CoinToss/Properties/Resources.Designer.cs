@@ -63,6 +63,16 @@ namespace CoinToss.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap buttonToss {
+            get {
+                object obj = ResourceManager.GetObject("buttonToss", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap coin_flip_black_white {
             get {
                 object obj = ResourceManager.GetObject("coin_flip_black_white", resourceCulture);
@@ -73,9 +83,9 @@ namespace CoinToss.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap бросить {
+        internal static System.Drawing.Bitmap eagleCoin {
             get {
-                object obj = ResourceManager.GetObject("бросить", resourceCulture);
+                object obj = ResourceManager.GetObject("eagleCoin", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,19 +93,9 @@ namespace CoinToss.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap орёл {
+        internal static System.Drawing.Bitmap reshkaCoin {
             get {
-                object obj = ResourceManager.GetObject("орёл", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap решка {
-            get {
-                object obj = ResourceManager.GetObject("решка", resourceCulture);
+                object obj = ResourceManager.GetObject("reshkaCoin", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

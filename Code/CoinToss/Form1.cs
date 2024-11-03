@@ -5,10 +5,10 @@ using System.Windows.Forms;
 
 namespace CoinToss
 {
-    public partial class Form1 : Form
+    public partial class TossCoin : Form
     {
         private Random rand = new Random();
-        public Form1()
+        public TossCoin()
         {
             InitializeComponent();
         }
@@ -17,25 +17,30 @@ namespace CoinToss
         {
             this.Text = "Орёл или решка";
             this.BackColor = Color.Black;
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             
-            pictureBox2.Visible = false;
-            pictureBox2.Image = Properties.Resources.coin_flip_black_white;
+            AnimationToss.Visible = false;
+            AnimationToss.Image = Properties.Resources.coin_flip_black_white;
+            Coin.Image = Properties.Resources.reshkaCoin;
+            buttonToss.Image = Properties.Resources.buttonToss;
         }
 
         private bool TossACoin() => rand.Next(0, 2) == 0 ? false : true;
 
         private async void pictureBox3_Click(object sender, EventArgs e)
         {
-            pictureBox2.Visible = true;
-            pictureBox3.Enabled = false;
+            AnimationToss.Visible = true;
+            buttonToss.Enabled = false;
 
             await Task.Delay(2500);
 
-            pictureBox2.Visible = false;
-            pictureBox3.Enabled = true;
+            AnimationToss.Visible = false;
+            buttonToss.Enabled = true;
 
-            if (TossACoin()) pictureBox1.Image = Properties.Resources.орёл;
-            else pictureBox1.Image = Properties.Resources.решка;
+            if (TossACoin()) Coin.Image = Properties.Resources.eagleCoin;
+            else Coin.Image = Properties.Resources.reshkaCoin;
         }
+
     }
 }

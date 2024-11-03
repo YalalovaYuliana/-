@@ -8,3 +8,13 @@ C:\Users\Yliana\Desktop\колледж\Учебная практика\code\Coin
 C:\Users\Yliana\Desktop\колледж\Учебная практика\code\CoinToss\obj\Debug\CoinToss.csproj.CoreCompileInputs.cache
 C:\Users\Yliana\Desktop\колледж\Учебная практика\code\CoinToss\obj\Debug\CoinToss.exe
 C:\Users\Yliana\Desktop\колледж\Учебная практика\code\CoinToss\obj\Debug\CoinToss.pdb
+C:\Users\Yliana\Desktop\колледж\Учебная практика\educationalPractice\Code\CoinToss\bin\Debug\CoinToss.exe.config
+C:\Users\Yliana\Desktop\колледж\Учебная практика\educationalPractice\Code\CoinToss\bin\Debug\CoinToss.exe
+C:\Users\Yliana\Desktop\колледж\Учебная практика\educationalPractice\Code\CoinToss\bin\Debug\CoinToss.pdb
+C:\Users\Yliana\Desktop\колледж\Учебная практика\educationalPractice\Code\CoinToss\obj\Debug\CoinToss.csproj.AssemblyReference.cache
+C:\Users\Yliana\Desktop\колледж\Учебная практика\educationalPractice\Code\CoinToss\obj\Debug\CoinToss.Properties.Resources.resources
+C:\Users\Yliana\Desktop\колледж\Учебная практика\educationalPractice\Code\CoinToss\obj\Debug\CoinToss.csproj.GenerateResource.cache
+C:\Users\Yliana\Desktop\колледж\Учебная практика\educationalPractice\Code\CoinToss\obj\Debug\CoinToss.csproj.CoreCompileInputs.cache
+C:\Users\Yliana\Desktop\колледж\Учебная практика\educationalPractice\Code\CoinToss\obj\Debug\CoinToss.exe
+C:\Users\Yliana\Desktop\колледж\Учебная практика\educationalPractice\Code\CoinToss\obj\Debug\CoinToss.pdb
+C:\Users\Yliana\Desktop\колледж\Учебная практика\educationalPractice\Code\CoinToss\obj\Debug\CoinToss.TossCoin.resources
