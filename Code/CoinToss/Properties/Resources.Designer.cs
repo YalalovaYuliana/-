@@ -63,39 +63,9 @@ namespace CoinToss.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap coin_flip_22 {
-            get {
-                object obj = ResourceManager.GetObject("coin_flip_22", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap coin_flip_black_white {
             get {
                 object obj = ResourceManager.GetObject("coin_flip_black_white", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap orel {
-            get {
-                object obj = ResourceManager.GetObject("orel", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap reshka {
-            get {
-                object obj = ResourceManager.GetObject("reshka", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
