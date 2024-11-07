@@ -39,7 +39,7 @@
             // 
             // AnimationToss
             // 
-            this.AnimationToss.Location = new System.Drawing.Point(32, -13);
+            this.AnimationToss.Location = new System.Drawing.Point(41, -12);
             this.AnimationToss.Name = "AnimationToss";
             this.AnimationToss.Size = new System.Drawing.Size(333, 408);
             this.AnimationToss.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
